@@ -1,0 +1,13 @@
+In this folder there are printable templates for cutting on cardboard.
+This will be very useful if you want to build this robot 
+but do not have access to a laser cutter.
+
+There are five printable PDF documents, labeled as follows:
+-White
+-Black
+-Clear
+-Foot
+-Head
+
+Special Thanks to Amby Ambroise from France for 
+converting my laser-cuttable DXF templates to printable PDF documents!
